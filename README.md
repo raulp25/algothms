@@ -1,4 +1,4 @@
-# algothms
+# Algos
 Thomas Cormen Algortihms--
 
 I bet a quarter you always wondered what the heck an algorithm was, how do they look? Are they like in the movies? Crazy numbers that would let you decrypt the treasury department access passwords? haha.
